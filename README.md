@@ -7,5 +7,5 @@ To view the app run streamlit run app.py
 
 ## Results
 
-![App interface](https://github.com/sameerhngdv/Cricket-Score-Predictor/blob/main/screenshots%20of%20demo/Interface.png)
-![Predict score](https://github.com/sameerhngdv/Cricket-Score-Predictor/blob/main/screenshots%20of%20demo/predict%20score.png)
+![App interface](https://raw.githubusercontent.com/sameerhngdv/Cricket-Score-Predictor/main/screenshots%20of%20demo/Interface.png)
+![Predict score](https://raw.githubusercontent.com/sameerhngdv/Cricket-Score-Predictor/main/screenshots%20of%20demo/predict%20score.png)
